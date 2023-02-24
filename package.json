@@ -7,6 +7,6 @@
   "repository": "https://github.com/ardatan/react-native-meteor-polyfills",
   "author": "Arda TANRIKULU",
   "dependencies": {
-    "react-native-browser-polyfills": "^1.1.0"
+    "react-native-browser-polyfills": "https://github.com/bmanturner/react-native-browser-polyfills/archive/0fb49f47ab6cfae432ac8e59fd2ff2d306052a67.tar.gz"
   }
 }
